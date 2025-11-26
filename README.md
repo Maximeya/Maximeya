@@ -1,9 +1,9 @@
-# About me:
-Hey i'm Maximeya, a **M2 Student in computer science**, specialized in **Cloud Computing & Distributed systems**. <br>
+# About me
+Hey! I'm Maximeya, a **M2 Student in computer science**, specialized in **Cloud Computing & Distributed systems**. <br>
 
----
+<br>
 
-# Technology stack:
+# Technology stack
 ### Cloud / DevOps
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
@@ -45,9 +45,9 @@ Hey i'm Maximeya, a **M2 Student in computer science**, specialized in **Cloud C
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
----
+<br>
 
-# GitHub stats:
+# GitHub stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=maximeya&theme=algolia&show_icons=true)](https://github.com/maximeya)
+[![](https://github-readme-stats.vercel.app/api?username=maximeya&theme=algolia&show_icons=true)](https://github.com/maximeya)
 
