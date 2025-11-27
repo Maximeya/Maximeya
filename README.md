@@ -1,9 +1,18 @@
 # About me
-Hey! I'm Maximeya, a **M2 Student in computer science**, specialized in **Cloud Computing & Distributed systems**. <br>
+
+Hey, i'm Maximeya, a **M2 Student in computer science**, specialized in **Cloud Computing & Distributed systems**. <br>
+
+#### Current work
+- My portfolio (Using ts, React, NodeJs, TailwindCSS)
+- A Cloud project for my university (Using k8s, Terraform, Ansible, Prometheus, Grafana)
+
+#### Links
+🌐 Portfolio: *In progess*
 
 <br>
 
 # Technology stack
+
 ### Cloud / DevOps
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
@@ -49,5 +58,5 @@ Hey! I'm Maximeya, a **M2 Student in computer science**, specialized in **Cloud 
 
 # GitHub stats
 
-[![](https://github-readme-stats.vercel.app/api?username=maximeya&theme=algolia&show_icons=true)](https://github.com/maximeya)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=maximeya&layout=donut)](https://github.com/maximeya/github-readme-stats)
 
